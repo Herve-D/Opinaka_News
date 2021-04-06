@@ -1,16 +1,6 @@
-# opinakanews
+Application réalisée pendant mon stage, dans le cadre de ma formation de Concepteur Développeur.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projet : Développer une application mobile Webview.
+- Applicatif entièrement personnalisable
+- Données HTML dans la base de données SQLite
+- Formulaire depuis fichier Json
