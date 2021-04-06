@@ -1,0 +1,107 @@
+{
+  "pageNames": {
+    "mainTitre": "Opinaka News",
+    "calendrier": "Calendrier",
+    "carte": "Carte",
+    "langue": "Choix de langue",
+    "liste": "Liste des news",
+    "logins": "Liste des utilisateurs",
+    "notifDetails": "Détails",
+    "notifListe": "Notifications",
+    "register": "Inscription",
+    "request": "News archivées",
+    "services": "Abonnements",
+    "settings": "Réglages",
+    "themeMakerEdit": "Modifier le thème",
+    "themeMakerNew": "Créer un thème",
+    "themeSet": "Thèmes",
+    "view": "Détails"
+  },
+  "pages": {
+    "accueil": {
+      "hello": "Bienvenue {} !",
+      "inconnu": "Connectez-vous",
+      "connexion": "Connexion",
+      "deconnexion": "Déconnexion",
+      "logo": "Trouvez ici tout ce que vous recherchez, et bien plus encore !!",
+      "stats": "Tableau de bord",
+      "docRead": "Documents lus :",
+      "docUnread": "Documents non lus :",
+      "docTotal": "Total des documents :",
+      "notifUnread": "Notifications en attente :"
+    },
+    "connexion": {
+      "titre": "Connexion",
+      "enregistre": "Pas encore de compte ? Passez d'abord par là",
+      "dialPass": "Mot de passe invalide",
+      "dialLog": "Login invalide",
+      "continue": "C'est parti !"
+    },
+    "liste": {
+      "snackAdd": "Ajout réussi !",
+      "snackLess": "Retrait réussi !",
+      "dialLogin": "Connexion",
+      "dialMsg": "Connectez-vous afin d'utiliser cette fonctionnalité."
+    },
+    "logins": {
+      "logTitre": "Utilisateur : {}"
+    },
+    "notifications": {
+      "default": "Aucune notification"
+    },
+    "register": {
+      "continue": "C'est bon !"
+    },
+    "request": {
+      "sub": "Voir la page",
+      "default": "Retrouvez ici vos annonces archivées"
+    },
+    "services": {
+      "economie": "Economie",
+      "emploi": "Emploi",
+      "environnement": "Environnement",
+      "immobilier": "Immobilier",
+      "loisirs": "Loisirs",
+      "mode": "Mode",
+      "multimedia": "Multimédia",
+      "politique": "Politique",
+      "sport": "Sport",
+      "vacances": "Vacances",
+      "vehicule": "Véhicules"
+    },
+    "settings": {
+      "themes": "Thème couleur",
+      "dark": "Mode sombre",
+      "police": "Police de caractères",
+      "langues": "Langues",
+      "services": "Abonnements"
+    },
+    "themeMaker": {
+      "name": "Nom du thème",
+      "titre1": "Couleur principale",
+      "sub1": "Couleur des principaux éléments de l'application",
+      "titre2": "Couleur principale sombre",
+      "sub2": "Version foncée",
+      "titre3": "Couleur secondaire",
+      "sub3": "Couleur de premier plan et boutons",
+      "titre4": "Couleur secondaire sombre",
+      "sub4": "Version foncée",
+      "titre5": "Couleur de fond",
+      "sub5": "Couleur de fond de l'application",
+      "titre6": "Couleur de texte",
+      "sub6": "Pour le texte et les icônes",
+      "change": "Changer",
+      "noEdit": "Impossible de modifier ce thème.",
+      "noName": "Le thème doit être nommé."
+    },
+    "themeSet": {
+      "noDark": "Mode sombre non modifiable",
+      "select": "Sélectionner",
+      "noDel": "Impossible de supprimer ce thème."
+    }
+  },
+  "snackOk": "Chargement...",
+  "dialTitre": "Attention",
+  "dialOk": "Compris !",
+  "del": "Supprimer"
+}

@@ -1,0 +1,107 @@
+{
+  "pageNames": {
+    "mainTitre": "Opinaka News",
+    "calendrier": "Calendar",
+    "carte": "Map",
+    "langue": "Choose language",
+    "liste": "News list",
+    "logins": "Users list",
+    "notifDetails": "Details",
+    "notifListe": "Notifications",
+    "register": "Sign up",
+    "request": "Saved news",
+    "services": "Subscriptions",
+    "settings": "Settings",
+    "themeMakerEdit": "Edit theme",
+    "themeMakerNew": "Make theme",
+    "themeSet": "Themes",
+    "view": "Details"
+  },
+  "pages": {
+    "accueil": {
+      "hello": "Welcome {} !",
+      "inconnu": "Log in",
+      "connexion": "Log in",
+      "deconnexion": "Log out",
+      "logo": "Find everything you need here, and even more !!",
+      "stats": "Overview",
+      "docRead": "Read documents :",
+      "docUnread": "Unread documents :",
+      "docTotal": "Total documents :",
+      "notifUnread": "Pending notifications :"
+    },
+    "connexion": {
+      "titre": "Log in",
+      "enregistre": "No account yet ? Come over here first",
+      "dialPass": "Incorrect password",
+      "dialLog": "Incorrect login",
+      "continue": "Let's go !"
+    },
+    "liste": {
+      "snackAdd": "Successfully saved !",
+      "snackLess": "Successfully unsaved !",
+      "dialLogin": "Log in",
+      "dialMsg": "Log in to use our services."
+    },
+    "logins": {
+      "logTitre": "User : {}"
+    },
+    "notifications": {
+      "default": "No notification"
+    },
+    "register": {
+      "continue": "I'm done !"
+    },
+    "request": {
+      "sub": "Show this page",
+      "default": "Find here your saved news"
+    },
+    "services": {
+      "economie": "Economy",
+      "emploi": "Employment",
+      "environnement": "Environment",
+      "immobilier": "Real Estate",
+      "loisirs": "Leisure",
+      "mode": "Fashion",
+      "multimedia": "Multimedia",
+      "politique": "Politics",
+      "sport": "Sports",
+      "vacances": "Holidays",
+      "vehicule": "Vehicle"
+    },
+    "settings": {
+      "themes": "Color theme",
+      "dark": "Dark mode",
+      "police": "Fonts",
+      "langues": "Languages",
+      "services": "Subscriptions"
+    },
+    "themeMaker": {
+      "name": "Theme name",
+      "titre1": "Main color",
+      "sub1": "Color of the main parts of the app",
+      "titre2": "Dark main color",
+      "sub2": "Dark version",
+      "titre3": "Secondary color",
+      "sub3": "Foreground and buttons color",
+      "titre4": "Dark secondary color",
+      "sub4": "Dark version",
+      "titre5": "Background color",
+      "sub5": "Background color of the app",
+      "titre6": "Text color",
+      "sub6": "For the text and icons",
+      "change": "Change",
+      "noEdit": "You can't edit this theme.",
+      "noName": "A theme must be named."
+    },
+    "themeSet": {
+      "noDark": "Dark mode uneditable",
+      "select": "Select",
+      "noDel": "You can't delete this theme."
+    }
+  },
+  "snackOk": "Loading...",
+  "dialTitre": "Wait",
+  "dialOk": "Got it !",
+  "del": "Delete"
+}

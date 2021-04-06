@@ -1,0 +1,107 @@
+{
+  "pageNames": {
+    "mainTitre": "Opinaka News",
+    "calendrier": "Calendario",
+    "carte": "Mapa",
+    "langue": "Elección de idioma",
+    "liste": "Lista de noticias",
+    "logins": "Lista de usuarios",
+    "notifDetails": "Detalles",
+    "notifListe": "Notificaciones",
+    "register": "Registro",
+    "request": "Noticias archivadas",
+    "services": "Suscripciones",
+    "settings": "Configuraciones",
+    "themeMakerEdit": "Cambiar el tema",
+    "themeMakerNew": "Crea un tema",
+    "themeSet": "Temas",
+    "view": "Detalle"
+  },
+  "pages": {
+    "accueil": {
+      "hello": "Bienvenidos {} !",
+      "inconnu": "Iniciar sesión",
+      "connexion": "Registrarse",
+      "deconnexion": "Cerrar sesión",
+      "logo": "¡Encuentra todo lo que estás buscando aquí y mucho más!",
+      "stats": "Cuadro de indicadores",
+      "docRead": "Documentos leídos :",
+      "docUnread": "Documentos no leídos :",
+      "docTotal": "Documentos totales :",
+      "notifUnread": "Notificaciones pendientes :"
+    },
+    "connexion": {
+      "titre": "Registrarse",
+      "enregistre": "¿No tienes cuenta aún? Primero ve allí",
+      "dialPass": "Contraseña invalida",
+      "dialLog": "Ingreso invalido",
+      "continue": "¡Vamonos!"
+    },
+    "liste": {
+      "snackAdd": "Además exitosa!",
+      "snackLess": "Retiro exitoso!",
+      "dialLogin": "Registrarse",
+      "dialMsg": "Inicia sesión para utilizar esta función."
+    },
+    "logins": {
+      "logTitre": "Usuario : {}"
+    },
+    "notifications": {
+      "default": "Sin notificación"
+    },
+    "register": {
+      "continue": "¡He terminado!"
+    },
+    "request": {
+      "sub": "Ver la página",
+      "default": "Encuentra tus anuncios archivados aquí"
+    },
+    "services": {
+      "economie": "Economía",
+      "emploi": "Empleo",
+      "environnement": "Medio ambiente",
+      "immobilier": "Bienes raíces",
+      "loisirs": "Aficiones",
+      "mode": "Moda",
+      "multimedia": "Multimedia",
+      "politique": "Política",
+      "sport": "Deporte",
+      "vacances": "Vacaciones",
+      "vehicule": "Vehículos"
+    },
+    "settings": {
+      "themes": "Tema de color",
+      "dark": "Modo oscuro",
+      "police": "Fuentes",
+      "langues": "Idiomas",
+      "services": "Suscripciones"
+    },
+    "themeMaker": {
+      "name": "Nombre del tema",
+      "titre1": "Color principal",
+      "sub1": "Color de los elementos principales de la aplicación.",
+      "titre2": "Color principal oscuro",
+      "sub2": "Versión oscura",
+      "titre3": "Color secundario",
+      "sub3": "Color de primer plano y botones",
+      "titre4": "Color secundario oscuro",
+      "sub4": "Versión oscura",
+      "titre5": "Color de fondo",
+      "sub5": "Color de fondo de la aplicación",
+      "titre6": "Color de texto",
+      "sub6": "Para texto e íconos",
+      "change": "Cambiar",
+      "noEdit": "No se puede cambiar este tema.",
+      "noName": "El tema debe ser nombrado."
+    },
+    "themeSet": {
+      "noDark": "El modo oscuro no se puede cambiar",
+      "select": "Para seleccionar",
+      "noDel": "No se puede eliminar este tema."
+    }
+  },
+  "snackOk": "Cargando...",
+  "dialTitre": "Atención",
+  "dialOk": "Incluyendo!",
+  "del": "Eliminar"
+}

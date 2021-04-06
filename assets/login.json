@@ -1,0 +1,17 @@
+{
+  "autoValidated": false,
+  "fields": [
+    {
+      "key": "input1",
+      "type": "Input",
+      "label": "Login",
+      "required": true
+    },
+    {
+      "key": "password1",
+      "type": "Password",
+      "label": "Password",
+      "required": true
+    }
+  ]
+}
